@@ -2,7 +2,7 @@
 
 An analog clock with a Naruto theme for your project.
 
-![Analog Clock Naruto](link-to-screenshot.png)
+![Analog Clock Naruto]( https://alwindonald.github.io/analog-clock-naruto/)
 
 ## Installation
 
